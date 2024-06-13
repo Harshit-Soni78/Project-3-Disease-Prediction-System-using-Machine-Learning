@@ -85,5 +85,5 @@ The dataset used in this project is sourced from the [Kaggle Heart Disease Datas
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/disease-prediction-system.git
-   cd disease-prediction-system
+   git clone https://github.com/Harshit-Soni78/Project-3-Disease-Prediction-System-using-Machine-Learning
+   cd Project-3-Disease-Prediction-System-using-Machine-Learning
